@@ -118,9 +118,9 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:backgroundTint="@color/red"
         android:text="SIGN UP"
-        
+        android:background="@drawable/custom_shape"
+        app:backgroundTint = "@null"
         android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.36"
